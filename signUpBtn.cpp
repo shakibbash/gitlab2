@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"My first button"<<endl;
+    cout<<"My second button"<<endl;
 }
 
 
